@@ -10,7 +10,7 @@ Given an input sentence in everyday English, the model rewrites it in the style 
 
 - Built on the **Qwen** model accessed through the **Hugging Face** ecosystem.
 - Framed as a **style transfer** task: the content stays fixed while the stylistic surface changes.
-- <!-- VERIFY: state whether you fine-tuned the model on a dataset, or used prompting/in-context conditioning. These are different claims — describe exactly what you did. -->
+
 
 ## Tech Stack
 
